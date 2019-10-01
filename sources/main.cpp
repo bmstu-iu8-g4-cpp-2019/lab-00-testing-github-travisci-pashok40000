@@ -1,4 +1,4 @@
-Copyright [2019] <Paul Bratash>
+/*Copyright [2019] <Paul Bratash>*/
 #include <iostream>
 
 int main()
